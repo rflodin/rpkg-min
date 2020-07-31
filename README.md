@@ -8,4 +8,4 @@ in hearing more, please [sign up](https://jumpingrivers.typeform.com/to/RCUweI) 
 get information about our beta version.
 
 Created during Gitmore tutorial.
-
+Adding new comment.
