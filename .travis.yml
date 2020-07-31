@@ -8,6 +8,4 @@ deploy:
   skip_cleanup: true
 
 r:
-  - oldrel
   - release
-  - devel
